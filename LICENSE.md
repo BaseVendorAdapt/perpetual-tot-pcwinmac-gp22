@@ -1,4 +1,4 @@
-# 
+# 新 perpetual trading bot 脚本 Mac OS版 | 自动 perpetual trading bot 脚本 PC Windows版。集成 MEV防护 和 风险管理，跨平台性能最大化。
 
 
 
